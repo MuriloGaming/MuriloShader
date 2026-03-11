@@ -1,6 +1,6 @@
 # MuriloShader
 ## 🗒️ About
-This is an [Unreal Engine](https://github.com/EpicGames/UnrealEngine) plugin that contains most of the [Fortnite](http://fortnite.com/) materials backported, using [JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) and [Core](https://github.com/Tectors/j0.dev/tree/0.0.2)!
+This is an [Unreal Engine](https://github.com/EpicGames/UnrealEngine) plugin that contains most of the [Fortnite](http://fortnite.com/) materials backported, using [JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) and [Core](https://github.com/Tectors/Core)!
 ## 📌 Important
 ⚠️ **WARNING!**
 If you want to use this for your work, please credit me!
